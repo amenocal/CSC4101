@@ -1,5 +1,5 @@
-Alejandro Menocal cs410136 
-Anthony Walker cs410151
+Alejandro Menocal  
+Anthony Walker 
 
 This is our first submsssion of Project 2. There are very few methods missing, but all arithmetic operators , evaluation operators, etc. work correctly.
 There is an extremely small workaround our project requires at this moment. Hopefully should be finished very soon. Seen in **NOTE. 
